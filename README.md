@@ -3,8 +3,9 @@ algoritma ve veri analiz odevleri
 https://www.patika.dev/tr
 
 Proje 1)
-1)
-          [22,27,16,2,18,6] -> Insertion Sort
+
+
+1)        [22,27,16,2,18,6] -> Insertion Sort
           [2,27,16,22,18,6]
           [2,6,16,18,22,27]
 
